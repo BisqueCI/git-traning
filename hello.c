@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(){
-  printf("マスターの変更\n");
+  printf("マスターをまた変更しました\n");
   return 0;
 }
