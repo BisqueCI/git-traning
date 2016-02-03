@@ -1,8 +1,6 @@
 #include <stdio.h>
 
 int main(){
-  printf("Hello World !!!\n");
-  printf("Hello World !!!!!!\n");
-  printf("Hello World !!!!!!!!!\n");
+  printf("マスターの変更\n");
   return 0;
 }
