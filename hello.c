@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 int main(){
-  printf("マスターをまた変更しました\n");
-  printf("ブランチを更新しました2016/02/2210:40");
+  printf("マスターを変更です10:52 2016/02/22\n");
   return 0;
 }
