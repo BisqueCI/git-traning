@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(){
-  printf("マスターをまた変更しました\n");
+  printf("マスターを変更です2016/02/22\n");
   return 0;
 }
